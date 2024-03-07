@@ -1,0 +1,21 @@
+.root {
+  padding: 0 16px;
+}
+
+.toolbar {
+  display: flex;
+  flex: 1;
+}
+
+.nav {
+  margin-left: auto;
+}
+
+.list {
+  align-items: center;
+  display: flex;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  gap: 16px;
+}
